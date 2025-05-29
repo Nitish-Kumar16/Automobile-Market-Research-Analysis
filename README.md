@@ -17,7 +17,8 @@ An interactive and data-driven dashboard that helps consumers, analysts, and man
 - DAX for custom KPIs and measures
 
 ## Dataset used
-https://docs.google.com/spreadsheets/d/1GvWyyrhnuWiuqEj6wlWbUGd0AYUPIi_q/edit?usp=drive_link&ouid=100523199606350600605&rtpof=true&sd=true
+- <a href="[https://docs.google.com/spreadsheets/d/1P2mB0Z4Gn9FyUBhj2cI443nRjnSgNx34/edit?usp=drive_link&ouid=101368825255311313144&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1sGUFwvzb3rjLZuFpj1ibCaQAT0y7aIkq/edit?usp=drive_link&ouid=100523199606350600605&rtpof=true&sd=true)">Dataset</a>
+
 ## Questions (KPIs)
 Which car model offers the highest number of preferred features?
 Which car maker has the highest number of models with top-rated features?
@@ -32,7 +33,8 @@ Which car is best suited for adventure driving?
 Which car model is best for child safety features?
 Which car body type is most preferred by customers?
 
-- Dashboard Interactionhttps://docs.google.com/spreadsheets/d/1xZCBCQFN75yQXdHHvnCjo1yvNDsRfiqA/edit?usp=drive_link&ouid=100523199606350600605&rtpof=true&sd=true
+- Dashboard Interaction <a href="[https://drive.google.com/file/d/1iNr_zARwUvlmUNuA7G058vQQGCcDUULA/view?usp=drive_link](https://drive.google.com/file/d/101XUNjlID8O0J_aGzaXHvvvAF5PSRHo-/view?usp=drive_link)">View Dashboard</a>
+
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
@@ -41,12 +43,14 @@ Which car body type is most preferred by customers?
 
 ## Dashboard
 
-![Screenshot (495)](https://drive.google.com/file/d/101XUNjlID8O0J_aGzaXHvvvAF5PSRHo-/view?usp=drive_link)
+- Dashboard Interaction <a href="[https://drive.google.com/file/d/1iNr_zARwUvlmUNuA7G058vQQGCcDUULA/view?usp=drive_link](https://drive.google.com/file/d/101XUNjlID8O0J_aGzaXHvvvAF5PSRHo-/view?usp=drive_link)">View Dashboard</a>
 
+## Folder Link
+
+Folder <a href="[[https://drive.google.com/file/d/1iNr_zARwUvlmUNuA7G058vQQGCcDUULA/view?usp=drive_link](https://drive.google.com/file/d/101XUNjlID8O0J_aGzaXHvvvAF5PSRHo-/view?usp=drive_link)](https://drive.google.com/drive/folders/1CcjJ1roqgkfEcXrWQ6L5v92LHTF_M7X6?usp=drive_link)">Folder</a>
 
 
 ## Final Conclusion:
 
 The feature-based car analysis provides valuable insights into how different car models and manufacturers align with customer preferences. By identifying the most feature-rich models and top-performing car makers, the analysis supports informed decision-making for both buyers and industry stakeholders. Key findings highlight the dominance of certain features, preferred body types, and the significance of segment-wise offerings. Overall, this project emphasizes the importance of feature integration in driving customer satisfaction, brand competitiveness, and market success.
-
 
